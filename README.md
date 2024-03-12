@@ -16,10 +16,12 @@ Algunas de mis experiencias fuero: ☀️
 
 - Implementación y mantenimiento de bases de datos SQL para proyectos internos.
 - Diseño y optimización de esquemas de bases de datos para mejorar la eficiencia y la integridad de los datos.
+  
 🖥️ Automatización de procesos con Google Forms y Apps Script
 
 - Desarrollo de scripts para vincular tablas de bases de datos con Google Forms, permitiendo la actualización automática de datos.
 - Creación de generadores de contadores mediante Apps Script para controlar y monitorear procesos internos.
+  
 📨 Automatización de envío de correos electrónicos
 
 - Programación de envíos automáticos de correos electrónicos utilizando Apps Script, optimizando la comunicación interna y externa de la empresa.
